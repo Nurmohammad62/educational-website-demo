@@ -1,5 +1,7 @@
 Website Information:
 1. This is an online video course website demo.
+2. Any person can enroll courses.
+3. Courses are showing just as demo. so, no video or articles there.
 
 # Getting Started with Create React App
 
