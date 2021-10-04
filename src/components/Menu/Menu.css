@@ -1,0 +1,10 @@
+/* main menu styles */
+.link{
+    text-decoration: none;
+    font-weight: bold;
+    color: #1B1D1D;
+    margin-right: 25px;
+}
+.link:hover{
+    color: #0F437F;
+}

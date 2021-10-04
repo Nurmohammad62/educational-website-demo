@@ -1,0 +1,8 @@
+/* blog styles */
+.blog-link{
+    color: #0F437F;
+    text-decoration: none;
+}
+.blog-link:hover{
+    text-decoration: underline;
+}

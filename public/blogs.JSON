@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "img": "https://assets.website-files.com/607de2d8e8911ebf197a3f0f/607f23fe55a94aa127fb47b2_image-6-blog-education-x-template-p-2000.jpeg",
+        "publishedDate": "Jan 2021",
+        "title": "How to design a simple, yet unique and memorable brand identity"
+    },
+    {
+        "id": 2,
+        "img": "https://assets.website-files.com/607de2d8e8911ebf197a3f0f/607f2623f3809724753fbc65_image-5-blog-education-x-template-p-2000.jpeg",
+        "publishedDate": "April 2021",
+        "title": "5 marketing trends that you should be prepared for in 2022"
+    },
+    {
+        "id": 3,
+        "img": "https://assets.website-files.com/607de2d8e8911ebf197a3f0f/607f25e9ca7a36bf7469e0c8_image-4-blog-education-x-template-p-2000.jpeg",
+        "publishedDate": "May 2021",
+        "title": "8 great design trends that are making a come-back in 2021"
+    },
+    {
+        "id": 4,
+        "img": "https://assets.website-files.com/607de2d8e8911ebf197a3f0f/607f256ca6388c4207dbfb28_image-3-blog-education-x-template-p-2000.jpeg",
+        "publishedDate": "Jun 2021",
+        "title": "How to be more creative: 5 cool tips to find inspiration everywhere"
+    },
+    {
+        "id": 5,
+        "img": "https://assets.website-files.com/607de2d8e8911ebf197a3f0f/607f24e214c1a2aef22ce32b_image-2-blog-education-x-template.jpg",
+        "publishedDate": "Aug 2021",
+        "title": "8 interesting programming languages you should be paying attention to"
+    },
+    {
+        "id": 6,
+        "img": "https://assets.website-files.com/607de2d8e8911ebf197a3f0f/607f2405097a4b97dde4f6d2_image-1-blog-education-x-template-p-2000.jpeg",
+        "publishedDate": "Sep 2021",
+        "title": "19 ways to optimize your ad marketing budget efficiently"
+    }
+]

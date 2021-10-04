@@ -1,0 +1,13 @@
+/* courses page custom styles */
+.search-box{
+    width: 250px;
+    font-size: 18px;
+    outline: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.all-courses-heading{
+    background-color: #BCDEFE;
+    color: #0F437F;
+    padding: 200px 0;
+}

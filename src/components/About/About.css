@@ -1,0 +1,31 @@
+/* about header styles */
+.about-header{
+    background-color: #BCDEFE;
+    padding: 150px 0;
+}
+.about-heading{
+    color: #0F437F;
+}
+
+.about-mission-heading{
+    color: #0F437F;
+}
+
+/* section members styles */
+.about-section-members{
+    background-color: #F9FAFB;
+    padding: 150px 0;
+}
+.members-header{
+    color:#0F437F;
+    margin-bottom: 50px; 
+}
+
+.members-figure{
+    font-size: 60px;
+    color: #F99D77;
+}
+
+.member-student{
+    color: #0F437F;
+}
